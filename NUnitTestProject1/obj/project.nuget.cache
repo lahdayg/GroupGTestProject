@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IdXDZhZ7tBVQW0qX15y2yKMtWalEK9ofwC/8dGP96rboMg1+PpJGCLJGEaVANP0fLUqM9L8JfiaMYxYQFr/wQw==",
+  "dgSpecHash": "NQQTU5DQ+9kuUz+Skkl5+jnEBvSNIWu8HNamYnreG9uyFZ1bk4SaYE7Cs6xOtfGHJKGtA9XnywhhqjDVBxrmVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupGTestProject\\NUnitTestProject1\\NUnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grandma\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Grandma\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

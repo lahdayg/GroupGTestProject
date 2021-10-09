@@ -6763,11 +6763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupGTestProject\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\Grandma\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupGTestProject\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grandma\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupGTestProject\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
